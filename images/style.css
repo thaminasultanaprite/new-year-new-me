@@ -1,0 +1,35 @@
+.banner {
+    background-image: url(icons/banner3.png);
+    padding: 400px 100px;
+    background-repeat: no-repeat;
+
+}
+
+.right {
+    text-align: end;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 1000px;
+}
+
+.decoration {
+    text-align: end;
+    padding-left: 900px;
+    color: rgb(241, 245, 249);
+    font-family: system-ui;
+
+}
+
+.btn {
+    height: 64px;
+    background-color: white;
+    border-radius: 5px;
+    font-weight: 600;
+    height: 64px;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 25px;
+    color: rgb(50, 96, 182);
+    margin-left: 1128px;
+    margin-top: 20px;
+}
